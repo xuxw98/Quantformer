@@ -1,6 +1,16 @@
 # Quantformer
 
-​	This is the official pytorch implementation for the paper: *Quantformer: Learning Extremely Low-precision Vision Transformers*. This repository contains differentiable searching and finetuning process for patch group assignment in group-wise quantization, and testing on ILSVRC2012 dataset using our proposed Quantformer.
+This repo contains PyTorch implementation for paper [Quantformer: Learning Extremely Low-precision Vision Transformers](https://ieeexplore.ieee.org/document/9992209) (T-PAMI 2022)
+
+```
+@article{wang2022quantformer,
+  title={Quantformer: Learning Extremely Low-precision Vision Transformers},
+  author={Wang, Ziwei and Wang, Changyuan and Xu, Xiuwei and Zhou, Jie and Lu, Jiwen},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 ## Quick Start
 
